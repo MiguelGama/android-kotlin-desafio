@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "942157332387",
+    "firebase_url": "https://dawer-1e60e.firebaseio.com",
+    "project_id": "dawer-1e60e",
+    "storage_bucket": "dawer-1e60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942157332387:android:382ad3bd78412c1836a416",
+        "android_client_info": {
+          "package_name": "com.br.desaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942157332387-sdqpotsha72e1naecjor6ksn07gb7gsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWluo_c_HDUMF6N7OOjw34t0aKszn9THA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942157332387-sdqpotsha72e1naecjor6ksn07gb7gsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942157332387:android:c351f558f8dc79d9",
+        "android_client_info": {
+          "package_name": "telecomunicacoesnordeste.dawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942157332387-v5um0qjq4aelo05541udbbbkhs8f9kko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "telecomunicacoesnordeste.dawer",
+            "certificate_hash": "a4e3f88bf1be2eb533f484331a35a2e166de2ff6"
+          }
+        },
+        {
+          "client_id": "942157332387-sdqpotsha72e1naecjor6ksn07gb7gsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWluo_c_HDUMF6N7OOjw34t0aKszn9THA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942157332387-sdqpotsha72e1naecjor6ksn07gb7gsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
