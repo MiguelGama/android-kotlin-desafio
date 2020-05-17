@@ -35,6 +35,8 @@ class MainActivity : AppCompatActivity(), MVP.View, ItemViewAdapter.OnClicked {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        startActivity(Intent(this, LoginActivity::class.java))
+
         var rv = findViewById(R.id.rv) as RecyclerView
         var list = ArrayList<ItemView>()
 
